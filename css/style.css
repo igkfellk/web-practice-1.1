@@ -27,6 +27,7 @@
             margin-bottom: 15px;
             border: 1px solid #ccc;
             border-radius: 4px;
+            max-width: -webkit-fill-available;
         }
         input[type="checkbox"] {
             margin-right: 10px;
